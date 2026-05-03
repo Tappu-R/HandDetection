@@ -1,0 +1,14 @@
+dev-requirements.txt
+pyproject.toml
+DetectionModel/__init__.py
+DetectionModel/__main__.py
+DetectionModel/config.py
+DetectionModel/engine.py
+DetectionModel/model.py
+DetectionModel/utils.py
+DetectionModel.egg-info/PKG-INFO
+DetectionModel.egg-info/SOURCES.txt
+DetectionModel.egg-info/dependency_links.txt
+DetectionModel.egg-info/requires.txt
+DetectionModel.egg-info/top_level.txt
+tests/test_DetectionModel.py
